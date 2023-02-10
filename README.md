@@ -1,0 +1,1 @@
+Uses shotgun's api to retrieve Ticket entities, and grabs file paths from them.
